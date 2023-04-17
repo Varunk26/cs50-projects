@@ -1,0 +1,18 @@
+ //calculate s & l in float
+    //l = ((float)numberofletters(text) / (float)numberofwords(text)) * 100;
+    //s = ((float)numberofsentences(text) / (float)numberofwords(text)) * 100;
+
+    //calculate index
+    //index = (0.0588 * l) - (0.296 * s) - 15.8;
+
+    //printf("%f\n", index);
+
+}
+
+//calculate words
+//
+//calculate letters
+//
+
+//calculate number of sentences
+//

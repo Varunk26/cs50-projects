@@ -1,0 +1,6 @@
+Purple: If most songs have a high average of danceability, valence & temp is greater than a constant
+Green: If most songs have a high speechines and a low average of tempo & energy
+Pink: If most songs are high on speechiness and low in danceability, valence and loudness
+Orange: If most songs have a speechiness and high tempo and high energy, high loudness and low danceability
+Yellow: If most songs have high tempo and low on speechiness
+Blue: If high on tempo and low on speechiness

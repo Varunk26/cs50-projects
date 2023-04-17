@@ -1,0 +1,4 @@
+Enter height request
+If height(n) not in range re-initiate enter height request
+Print n-1 blankspaces and n # in a single line
+Decrement n by and return to line 3

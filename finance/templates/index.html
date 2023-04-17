@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <table>
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>Price</th>
+                <th>Shares</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for stockprice in index %}
+            <tr>
+                <td>{{ stockprice.stock }}</td>
+                <td>{{ stockprice.shares }}</td>
+                <td>{{ stockprice.price }}</td>
+                <td>{{ stockprice.total }}</td>
+            {% endfor %}
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Totalstock</td>
+                <td>{{ totalstock }}</td>
+            </tr>
+            <tr>
+                <td>Cash</td>
+                <td>{{ cash }}</td>
+            </tr>
+            <tr>
+                <td>Grand Total</td>
+                <td>{{ grandtotal }}</td>
+            </tr>
+        </tfoot>
+    </table>
+{% endblock %}

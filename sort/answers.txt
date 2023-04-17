@@ -1,0 +1,11 @@
+sort1 uses:Bubble sort
+
+How do you know?:Upper bound = 0m5.624s & lower bound = 0m0.434s differ greatly & comparable in the order of n^2 & n respectively.
+
+sort2 uses:Merge sort
+
+How do you know?:Upper Bound = 0.495s & lower bound = 0.405s are almost similair and less than the time taken by sort1 & sort3. Hence it is comparable to the order of n logn.
+
+sort3 uses: Selection sort
+
+How do you know?:Upper Bound = 3.239s & lower bound = 3.161s are almost similair and greater than sort2. Hence it is comparable to the order of n^2.

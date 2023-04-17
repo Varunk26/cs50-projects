@@ -1,0 +1,10 @@
+AGATCAATGTATCTATCTATCTATCAGATCAGATC
+        for j in range(len(str_count)):
+            if int(str_count[j]) == int(persona[j+1]):
+                print(f"str is:{str_count[j]} and persona is: {j+1}")
+                count += 1
+        if count == len(str_count):
+            print(persona[0])
+            quit()
+
+    print("no match")

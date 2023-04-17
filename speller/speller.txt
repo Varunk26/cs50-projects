@@ -1,0 +1,9 @@
+   //set index of table to NULL
+    for (int i = 0; i < N; i++)
+    {
+        node *temp = malloc(sizeof(node));
+        temp->next = NULL;
+        table[i] = temp;
+    }
+
+consider eliminating -1

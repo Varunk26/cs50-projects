@@ -1,0 +1,134 @@
+Sort1
+
+    Random
+
+        50000
+
+            real    0m7.486s
+            user    0m6.845s
+            sys     0m0.228s
+
+        5000
+            real    0m0.084s
+            user    0m0.051s
+            sys     0m0.024s
+
+    Reversed
+
+        50000
+
+            real    0m5.624s
+            user    0m5.063s
+            sys     0m0.230s
+
+        5000
+
+            real    0m0.093s
+            user    0m0.049s
+            sys     0m0.023s
+
+    Sorted
+
+        50000
+
+            real    0m0.434s
+            user    0m0.060s
+            sys     0m0.127s
+
+        5000
+
+
+            real    0m0.024s
+            user    0m0.009s
+            sys     0m0.013s
+
+Sort2
+
+    Random
+
+        50000
+
+            real    0m0.472s
+            user    0m0.052s
+            sys     0m0.164s
+
+        5000
+
+            real    0m0.035s
+            user    0m0.000s
+            sys     0m0.025s
+
+    Reversed
+
+        50000
+
+            real    0m0.495s
+            user    0m0.030s
+            sys     0m0.169s
+
+        5000
+            real    0m0.039s
+            user    0m0.005s
+            sys     0m0.017s
+
+    Sorted
+
+        50000
+
+            real    0m0.405s
+            user    0m0.055s
+            sys     0m0.142s
+
+        5000
+
+            real    0m0.064s
+            user    0m0.003s
+            sys     0m0.016s
+
+
+Sort3
+
+    Random
+
+        50000
+
+            real    0m3.156s
+            user    0m2.681s
+            sys     0m0.176s
+
+        5000
+
+            real    0m0.055s
+            user    0m0.028s
+            sys     0m0.018s
+
+    Reversed
+
+        50000
+
+            real    0m3.239s
+            user    0m2.692s
+            sys     0m0.178s
+
+        5000
+
+        real    0m0.091s
+        user    0m0.035s
+        sys     0m0.012s
+
+    Sorted
+
+        50000
+
+            real    0m3.161s
+            user    0m2.649s
+            sys     0m0.161s
+
+        5000
+
+            real    0m0.075s
+            user    0m0.021s
+            sys     0m0.028s
+
+
+
