@@ -1,5 +1,5 @@
 # cs50x-projects
-This repository contains all of Varun's projects made for Harvard's cs50x coursework.
+This repository contains all of Varun's projects & files for Harvard's cs50x coursework.
 * Week 0 Scratch
 * Week 1 C
 * Week 2 Arrays
